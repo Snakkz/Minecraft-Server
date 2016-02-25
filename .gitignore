@@ -61,3 +61,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Server Info file
+server.properties
+*.exe
